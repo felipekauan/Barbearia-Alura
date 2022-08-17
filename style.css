@@ -1,20 +1,27 @@
-P{
-            text-align: center;
-            
-         } 
-h1 {
-   text-align: center;
-}
-body { 
+body {
     background: #CCCCCC
- }
+}
 
- #missao{
-   "font-size: 20px
- }
- 
+#banner {
+    width: 100%;
+}
 
+h1 {
+    text-align: center
+}
 
- strong{
-    color: red;
- }
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+}
